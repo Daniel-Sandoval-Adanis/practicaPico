@@ -25,7 +25,7 @@ output [7:0] an,
 output reg [7:0] dis_port
     );
 //control display
-assign an=8'b11111110;
+assign an=8'b11101110;
 
 // Señales
 
